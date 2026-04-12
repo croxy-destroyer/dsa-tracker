@@ -9,18 +9,16 @@ This repo is my personal journey to be an **Industrial-graded Developer**
 
 ## Table of Contents
 
-- [DSA Tracker](#dsa-tracker)
-  - [Table of Contents](#table-of-contents)
-  - [About the DSA Tracker](#about-the-dsa-tracker)
-  - [Features](#features)
-  - [Roadmap](#roadmap)
-  - [Criticals for Mastering DSA](#criticals-for-mastering-dsa)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [SetUP and Installations](#setup-and-installations)
-    - [Stress Test the Enviornment](#stress-test-the-enviornment)
-  - [Project Structure](#project-structure)
-  - [Contributing \& Daily Workflow (Personal+Industry-graded)](#contributing--daily-workflow-personalindustry-graded)
+- [About the DSA Tracker](#about-the-dsa-tracker)
+- [Features](#features)
+- [Roadmap](#roadmap)
+- [Criticals for Mastering DSA](#criticals-for-mastering-dsa)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [SetUP and Installations](#setup-and-installations)
+  - [Stress Test the Enviornment](#stress-test-the-enviornment)
+- [Project Structure](#project-structure)
+- [Contributing \& Daily Workflow (Personal+Industry-graded)](#contributing--daily-workflow-personalindustry-graded)
 
 ---
 
