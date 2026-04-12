@@ -12,11 +12,11 @@ This repo is my personal journey to be an **Industrial-graded Developer**
 - [About the DSA Tracker](#about-the-dsa-tracker)
 - [Features](#features)
 - [Roadmap](#roadmap)
-- [Criticals for Mastering DSA](#criticals-for-mastering-dsa)
+- [Critical for Mastering DSA](#critical-for-mastering-dsa)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [SetUP and Installations](#setup-and-installations)
-  - [Stress Test the Enviornment](#stress-test-the-enviornment)
+  - [Stress Test the Environment](#stress-test-the-environment)
 - [Project Structure](#project-structure)
 - [Contributing \& Daily Workflow (Personal+Industry-graded)](#contributing--daily-workflow-personalindustry-graded)
 
@@ -30,7 +30,7 @@ Writing Code or just cracking the logic is not the motive for this repo.
 
 This mechanism revolves around the idea of :- One must know the best practices to manage, organize and test the code also.
 
-Practices like unit testing (for normal, edge, fail cases), complexity analysis, documentaion, disciplined Daily commits are as much as valuable as breaking down the logic and code it.
+Practices like unit testing (for normal, edge, fail cases), complexity analysis, documentation, disciplined Daily commits are as much as valuable as breaking down the logic and code it.
 
 **GOAL**: Build muscle memory for clean, testable, maintainable code apart from solving problem and writing logic
 
@@ -40,7 +40,7 @@ Updates in the repo will be done progressively.
 
 ## Features
 
-- Clean Project Structure, clear seperation between `src/` and `tests/`
+- Clean Project Structure, clear separation between `src/` and `tests/`
 - Unit tests for every code (Happy Path, Edge cases, Fail Cases)
 - Complexity analysis for each code
 - Notes for different topics and technologies
@@ -51,11 +51,11 @@ Updates in the repo will be done progressively.
 
 ## Roadmap
 
-To be add
+Coming Soon
 
 ---
 
-## Criticals for Mastering DSA
+## Critical for Mastering DSA
 
 During DSA learning journey below critical decisions and understanding is important:
 
@@ -80,17 +80,17 @@ During DSA learning journey below critical decisions and understanding is import
 
 ### SetUP and Installations
 
-To be add
+Coming Soon
 
-### Stress Test the Enviornment
+### Stress Test the Environment
 
-To be add
+Coming Soon
 
 ---
 
 ## Project Structure
 
-to be add
+Coming Soon
 
 ---
 
@@ -100,12 +100,12 @@ to be add
 
 ```mermaid
 flowchart TD
-    id1(["`**Create a New Branch**<br>*git switch branch_name*</br>`"])
+    id1(["`**Create a New Branch**<br>*git switch -c branch_name*</br>`"])
     id2(["`**Create Test Plan**<br>*Normal, Edge & Fail cases*</br>`"])
     id3(["`**Write logic + docstring + complexities**`"])
-    id4(["`**Run Tests @ Unittesting**<br>*Normal, Edge & Fail cases*</br>`"])
+    id4(["`**Run Tests @ Unit Testing**<br>*Normal, Edge & Fail cases*</br>`"])
     id5(["`**Commit with Conventional message**<br>*feat: add insert function*</br>`"])
-    id6(["`**Push the repo to github**<br>*push origin main*</br>`"])
+    id6(["`**Push the repo to github**<br>*git push origin main*</br>`"])
     id7(["`**Open PR**<br>*Resolve PR and merge*</br>`"])
     id8(["`**Update README & Roadmap**`"])
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8
