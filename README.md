@@ -19,6 +19,7 @@ This repo is my personal journey to be an **Industrial-graded Developer**
   - [Stress Test the Environment](#stress-test-the-environment)
 - [Project Structure](#project-structure)
 - [Contributing \& Daily Workflow (Personal+Industry-graded)](#contributing--daily-workflow-personalindustry-graded)
+- [LICENSE](#license)
 
 ---
 
@@ -100,6 +101,7 @@ Coming Soon
 
 ```mermaid
 flowchart TD
+    id0(["`**Syncing with github**<br>*git pull origin main*</br>`"])
     id1(["`**Create a New Branch**<br>*git switch -c branch_name*</br>`"])
     id2(["`**Create Test Plan**<br>*Normal, Edge & Fail cases*</br>`"])
     id3(["`**Write logic + docstring + complexities**`"])
@@ -108,8 +110,12 @@ flowchart TD
     id6(["`**Push the repo to github**<br>*git push origin main*</br>`"])
     id7(["`**Open PR**<br>*Resolve PR and merge*</br>`"])
     id8(["`**Update README & Roadmap**`"])
-    id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8
+    id0-->id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8
 
 ```
 
 ***Daily Commit Rule***: Even 1 new test or 1 docstring or 1 new learning improvement counts in long run.
+
+## License
+
+Distributed under the MIT LICENSE. See `LICENSE.md` for more information
