@@ -1,6 +1,6 @@
 import unittest
 
-from src.data_structures.linked_list.singly_ll import SinglyLL
+from src.data_structure.linked_list.singly_ll import SinglyLL
 
 
 class TestNormalCase(unittest.TestCase):
