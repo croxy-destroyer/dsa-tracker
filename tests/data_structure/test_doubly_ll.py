@@ -1,6 +1,6 @@
 import unittest
 
-from src.data_structures.linked_list.doubly_ll import DoublyLL
+from src.data_structure.linked_list.doubly_ll import DoublyLL
 
 
 class TestNormalCases(unittest.TestCase):
