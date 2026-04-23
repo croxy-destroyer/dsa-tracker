@@ -261,6 +261,6 @@ class TestFailCases(unittest.TestCase):
     
     def test_search_at_position_out_of_bound(self):
         with self.assertRaises(IndexError):
-            self.dll.search_at_position(6)
+            self.dll.search_at_position(5)
 
 

@@ -196,7 +196,7 @@ class DoublyLL:
             raise ValueError("Empty List")
         crr = self.head 
         for i in range(pos - 1):
-            if crr is None:
+            if crr.next is None:
                 raise IndexError("Index is out of bound should be < (length)")
             crr = crr.next
         
