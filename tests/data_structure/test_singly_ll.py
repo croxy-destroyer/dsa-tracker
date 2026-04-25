@@ -196,7 +196,7 @@ class TestFailCases(unittest.TestCase):
 
     def test_delete_pos_out_of_bound(self):
         with self.assertRaises(IndexError):
-            self.sll.delete_at_position(22)
+            self.sll.delete_at_position(5)
 
     def test_delete_node_not_found(self):
         with self.assertRaises(ValueError):

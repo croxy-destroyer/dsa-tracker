@@ -108,12 +108,10 @@ class SinglyLL():
         crr = self.head
         prev = None
         for _ in range(1, pos):
-            if crr is None:
+            if crr.next is None:
                 raise IndexError("Index is out of bound")
             prev = crr
             crr = crr.next
-        if crr is None:
-            raise IndexError("Out of bound")
         prev.next = crr.next
 
     def delete_node(self, value) -> None:
